@@ -1,3 +1,3 @@
 # git-practicas
 
-Ejercicio de práctica de integración Germán
+conflcto ejercicio
